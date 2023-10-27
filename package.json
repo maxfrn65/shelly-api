@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "axios": "^1.5.1",
+    "fetch": "^1.1.0",
+    "form-data": "^4.0.0",
+    "formdata-node": "^6.0.3",
     "saas": "^1.0.0",
     "sass": "^1.69.4",
     "vue": "^3.3.4",
